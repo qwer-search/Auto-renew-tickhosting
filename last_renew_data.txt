@@ -1,4 +1,4 @@
-Server ID: Unknown
-Renew status: Failed
-Last renewal time: 2024-12-23 06:22:59
-Error: An error occurred: Unable to login to dashboard
+Server ID: 8ef15197
+Renew status: Success
+Last renewal time: 2024-12-23 06:29:23
+New expiration time: 2024-12-30 06:29:04
