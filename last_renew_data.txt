@@ -1,4 +1,4 @@
-Server ID: 809e07d0
+Server ID: 8ef15197
 Renew status: Success
-Last renewal time: 2024-12-29 01:04:49
-New expiration time: 2025-01-11 03:45:16
+Last renewal time: 2025-01-01 01:05:47
+New expiration time: 2025-01-13 06:29:04
